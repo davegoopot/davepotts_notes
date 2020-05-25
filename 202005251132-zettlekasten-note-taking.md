@@ -18,3 +18,5 @@ The Zettelkasten method from Niklas Luhmann for taking notes and linking them to
  10. Add outline notes - like connection notes, but ones with a sequence to create a story
  11. Never delete - update with reasons why things have changed
  12. Add without fear - don't stop to question, just add it
+ 
+ From [original blog from Patchwork](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125?gi=7f602e82cda1)
